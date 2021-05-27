@@ -15,7 +15,9 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 25-02-2021 | *A Brief history of bioinformatics* | Jeff et al | Ruth Nanjala | [Paper](https://academic.oup.com/bib/article-abstract/20/6/1981/5066445) | [Presentation_link](https://docs.google.com/presentation/d/1YlxyFsrnF67pShl5kbLioi-a29cse7SfFbxRTBVehQU/edit#slide=id.p)
 11-03-2021| *Three-gene PCR and high-resolution melting analysis for differentiating vertebrate species mitochondrial DNA for biodiversity research and complementing forensic surveillance*| Ouso et al | Winfred Gatua | [Paper](https://www.nature.com/articles/s41598-020-61600-3.pdf)|[Presentation link](https://drive.google.com/file/d/14SuZNBgU59rSdVB-e5BJe0CeUp-jyhE6/view?usp=sharing)
 25-03-2021 | *PhyResSE: a Web Tool Delineating Mycobacterium Tuberculosis Antibiotic Resistance and Lineage from Whole-Genome Sequencing Data* | Silke Feuerriegel et al | Rose Wambui | [Paper](https://jcm.asm.org/content/53/6/1908) | [Presentation_link](https://docs.google.com/presentation/d/1j11cCrxxwYnv98eQpwof5FhCqEJ1WOV_iwl7Rkv6JTk/edit#slide=id.p7)
+22-04-2021 | *Privacy challenges and research opportunities for genomic data sharing* | Bonomi et al | Nabwire Asatsa | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7761157/) | [Presentation_link](https://docs.google.com/presentation/d/1qY60fNFnb2MWVMfmV6o7XoAdViXTzRn8FwaOxbvEY5g/edit#slide=id.p) 
 6-05-2021 | *COVID-19 vaccines: where we stand and challenges ahead.* | Forni et al | Kauthar Omar | [Paper](https://www.nature.com/articles/s41418-020-00720-9) | [Presentation link](https://docs.google.com/presentation/d/1vokp3xYIYHj1P6ToBcwoGCqVh8WYMY1WbDbvFIHQAv8/edit?usp=sharing)
+
 
 
 ---
